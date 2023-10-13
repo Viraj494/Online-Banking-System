@@ -1,0 +1,31 @@
+﻿body {
+    background-image: url("../img12/backn3.jpg");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.login {
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Chakra Petch', sans-serif;
+    padding-right: 50px;
+    float: right;
+    padding-top: 20px;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 45px;
+    text-shadow: 2px 2px #000000;
+    font-family: 'Chakra Petch', sans-serif;
+    padding-left: 50px;
+    padding-top: 180px;
+}
